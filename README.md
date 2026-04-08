@@ -1,0 +1,1 @@
+# adpi_manager
