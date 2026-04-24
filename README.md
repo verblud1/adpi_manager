@@ -1,5 +1,4 @@
 # adpi_manager
----
 
 # ADPI Manager (Менеджер АДПИ) 🧯
 
@@ -72,11 +71,6 @@ python ResidentCards.py
 ```bash
 pyinstaller --noconsole --onefile --add-data "registry;registry" ResidentCards.py
 ```
-
-Для вашего репозитория на GitHub стоит выделить эти два скрипта как вспомогательные инструменты (**Utility Tools**), которые обеспечивают жизненный цикл данных: от первичного импорта до поддержания актуальности базы.
-
-Добавьте следующие разделы в ваш **README.md**:
-
 ---
 
 ## 🛠 Вспомогательные инструменты (Utilities)
