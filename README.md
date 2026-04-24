@@ -1,10 +1,4 @@
 # adpi_manager
-
-Система управления реестром адпи с возможность
-
-adpi_JsonConverter.py - превращение реестра из excel в json
-adpi_synchronization.py - синхронизация старого json и нового
-
 ---
 
 # ADPI Manager (Менеджер АДПИ) 🧯
